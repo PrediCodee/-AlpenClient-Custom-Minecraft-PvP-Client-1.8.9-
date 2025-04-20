@@ -68,4 +68,4 @@ Pull Requests, Bug-Reports und Feature-Ideen sind herzlich willkommen!
 
 ---
 
-**Made with ❤️ by Csaba & ChatGPT**
+**Made with ❤️ by PrediCodee**
