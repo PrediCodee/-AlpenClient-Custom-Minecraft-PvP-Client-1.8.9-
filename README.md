@@ -1,24 +1,71 @@
-❄️ AlpenClient – Custom Minecraft PvP Client (1.8.9)
-AlpenClient ist ein komplett eigenentwickelter, leistungsstarker Minecraft PvP-Client auf Basis der Version 1.8.9 mit OptiFine – designed für maximale FPS, sauberes Gameplay und moderne Features in einem frostigen Alpen-Style.
-Alle Features sind Open Source und modular aufgebaut – ready für PvP, UHC, Bedwars & mehr!
+# ❄️ AlpenClient – Custom Minecraft PvP Client (1.8.9)
 
-🔹 Features (v1.0)
-FPS-/CPS-Zähler, Keystrokes, Potion HUD, Armor HUD
+![AlpenClient Logo](preview/logo.png)
 
-RSHIFT-GUI (drag & drop, frostig-blaues Design)
+**AlpenClient** ist ein eigens entwickelter Minecraft PvP-Client basierend auf Version **1.8.9 + OptiFine**, mit dem Fokus auf:
+- 🧊 hohe Performance (FPS-Boosts)
+- 🧊 PvP-relevante Features & Module
+- 🧊 frostiges, modernes UI-Design
+- 🧊 Open Source Entwicklung – für die Community!
 
-Mehrsprachiger Willkommensbildschirm (DE/EN)
+---
 
-Custom Icons, animierter Lade-/Startscreen
+## 🖥️ Vorschau
 
-Direkt integriert: Changelog-System, Custom Capes (Preview)
+### 🔹 Willkommensbildschirm (DE/EN)
+![Welcome Screen](preview/welcome_screen.png)
 
-IntelliJ-Projekt inklusive – plug & play!
+### 🔹 Ingame GUI (RSHIFT Menu – Drag & Drop)
+![GUI](preview/gui_preview.png)
 
-🌐 Geplant für nächste Versionen:
-Performance, PvP-Module, Cosmetics, Launcher, Replay Mod, Discord RPC, Auto-Updater u. v. m. (siehe Roadmap)
+### 🔹 Changelog-System (automatisch beim Start)
+![Changelog](preview/changelog_window.png)
 
-Mitmachen erwünscht!
-Fork it, entwickle mit oder gib Feedback – gemeinsam bauen wir den coolsten PvP-Client Europas 🇪🇺💙
+---
 
-by @PrediCodee
+## 🚀 Features (Version 1.0)
+
+- ✅ FPS-Counter, CPS-Counter, Keystrokes
+- ✅ Armor HUD, Potion HUD, Coordinates
+- ✅ Custom Capes (Preview mit Auswahl)
+- ✅ RSHIFT GUI mit frostigem Design
+- ✅ Mehrsprachigkeit (Deutsch / Englisch)
+- ✅ Animierter Lade- & Willkommensbildschirm
+- ✅ Integriertes Changelog-System
+- ✅ IntelliJ Projektstruktur (Ready to Build!)
+
+---
+
+## 📋 Geplante Features (v1.1+)
+
+> Die komplette Roadmap findest du [hier](ROADMAP.md)
+
+- 🔧 FPS-Boost & moderne Engine
+- 🔧 V-Sync, Chunk Control, Async World Load
+- 📦 PvP Module (Reach, NameTags, Swing, Blockhit…)
+- 🎨 Cosmetics: Wings, Cloaks, Emotes, Overlays
+- 🧠 Replay Mod, Discord RPC, Auto-Updater
+- 🖥️ Custom Launcher inkl. Multi-Version (1.7 – 1.20.x)
+
+---
+
+## 📁 Projekt starten
+
+1. Repository klonen  
+   `git clone https://github.com/DEINNAME/AlpenClient.git`
+
+2. In IntelliJ öffnen  
+   → als Gradle/MCP-Projekt importieren
+
+3. Builden & Starten – ready to go!
+
+---
+
+## 🙌 Mitentwickeln?
+
+Pull Requests, Bug-Reports und Feature-Ideen sind herzlich willkommen!  
+→ [Issues](https://github.com/DEINNAME/AlpenClient/issues) oder Discord (bald!)
+
+---
+
+**Made with ❤️ by Csaba & ChatGPT**
