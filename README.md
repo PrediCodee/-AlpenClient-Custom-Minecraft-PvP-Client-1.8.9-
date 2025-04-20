@@ -1,6 +1,6 @@
 # ❄️ AlpenClient – Custom Minecraft PvP Client (1.8.9)
 
-![AlpenClient Logo](preview/logo.png)
+![AlpenClient Logo](/logo.png)
 
 **AlpenClient** ist ein eigens entwickelter Minecraft PvP-Client basierend auf Version **1.8.9 + OptiFine**, mit dem Fokus auf:
 - 🧊 hohe Performance (FPS-Boosts)
