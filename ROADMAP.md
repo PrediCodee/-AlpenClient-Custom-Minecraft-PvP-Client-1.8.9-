@@ -75,4 +75,4 @@ Du hast Vorschläge oder willst beim Entwickeln helfen?
 
 > **Letztes Update:** `{{Datum automatisch einfügen}}`
 >  
-> *Projekt von [@Csaba](#) & ChatGPT – made with snow & skill ⛷️*
+> *Projekt von [@PrediCodee](#)  – made with snow & skill ⛷️*
